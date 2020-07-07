@@ -5,4 +5,4 @@ Ayrıntılar [firatsoygul.blogspot.com/tbp](https://firatsoygul.blogspot.com/tbp
 
 Ön İzleme
 
-![Ön izleme](https://github.com/firatsoygul/TurkiyeBandPlani/raw/master/img/preview.jpg)
+![Ön izleme](https://github.com/firatsoygul/TurkiyeBandPlani/raw/master/preview.png)
